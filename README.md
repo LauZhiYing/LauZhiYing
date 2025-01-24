@@ -22,6 +22,22 @@ Year 1 Students of Bachelor Of Computer Science (Graphic And Multimedia Software
 
 <p align="left"> <a href="https://www.github.com/LauZhiYing" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/zhi-ying-lau-4abb5a348/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+### Education
+- **Primary School**: SJK(C) JOHOR JAYA
+- **Secondary School**: SMK TAMAN PELANGI INDAH
+- **Foundation**: MULTIMEDIA UNIVERSITY
+- **Degree**: UNIVERSITI TEKNOLOGI MALAYSIA
+
+### Courses
+#### Bachelor Of Computer Science (Graphic And Multimedia Software) With Honours
+- Year 1 Semester 1:
+   - Technology And Information System
+   - Discrete Structure
+   - Digital Logic
+   - Programming Technique I
+   - Interity and Anti-Corruption Course
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
