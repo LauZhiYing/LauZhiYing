@@ -10,6 +10,9 @@ Year 1 Students of Bachelor Of Computer Science (Graphic And Multimedia Software
 * ✉️  You can contact me at [lauzhiying@graduate.utm.my](mailto:lauzhiying@graduate.utm.my)
 * 🧠  I'm learning C++ programming
 
+### E-portfolio:
+https://github.com/LauZhiYing/LauZhiYing.github.io
+
 ### Skills
 
 
