@@ -31,7 +31,7 @@ https://github.com/LauZhiYing/LauZhiYing.github.io
 - **Foundation**: MULTIMEDIA UNIVERSITY
 - **Degree**: UNIVERSITI TEKNOLOGI MALAYSIA
 
-### 👔Position
+### Position
 #### SMK TAMAN PELANGI INDAH
 - Treasurer of Prefects' Board.
 - Secretary of St. John Ambulance
